@@ -2,9 +2,7 @@
 # CS B551 Fall 2018, Assignment #3
 #
 #Yashaswini Dhatrika(yhatrik)
-#Sushant (sgakhar)
-#Devanshi (dsmittal)
-# (Based on skeleton code by D. Crandall)
+
 #
 #
 ####
