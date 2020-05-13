@@ -1,10 +1,7 @@
 ###################################
 # CS B551 Fall 2018, Assignment #3
 #
-# Scoring code by D. Crandall
-#
-# PLEASE DON'T MODIFY THIS FILE.
-# Edit pos_solver.py instead!
+
 #
 
 class Score:
