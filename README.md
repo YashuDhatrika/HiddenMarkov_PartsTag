@@ -4,4 +4,4 @@ Three Bayes Nets for part of speech tagging: (a) an HMM, (b) a simplied model, a
 (c) a more complicated model are implemented
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/YashuDhatrika/HiddenMarkov_PartsTag/blob/master/input.PNG)
