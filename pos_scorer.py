@@ -1,8 +1,5 @@
 ###################################
 # CS B551 Fall 2018, Assignment #3
-#
-
-#
 
 class Score:
     def __init__(self):
