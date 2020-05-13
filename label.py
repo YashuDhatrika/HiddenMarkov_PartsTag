@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 
-
-#
-
 from pos_scorer import Score
 from pos_solver import *
 import sys
